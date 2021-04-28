@@ -6,7 +6,7 @@
 // 3. Function prototypes (aka. function declaration)
 #include <stdio.h>
 #define MAX 30
-
+//All the declarations are below
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
